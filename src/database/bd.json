@@ -1,0 +1,21 @@
+[{
+        "nome": "Darth Vader",
+        "nascimento": "5025",
+        "genero": "Masculino",
+        "filmes": "https://swapi.dev/api/films/1/"
+    },
+
+    {
+        "nome": "Luke Skywalker",
+        "nascimento": "4015",
+        "genero": "Masculino",
+        "filmes": "https://swapi.dev/api/films/1/"
+    },
+
+    {
+        "nome": "Leia Organa",
+        "nascimento": "4025",
+        "genero": "Feminino",
+        "filmes": "https://swapi.dev/api/films/1/"
+    }
+]

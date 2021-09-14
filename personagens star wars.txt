@@ -1,0 +1,56 @@
+ "name": "Darth Vader", 
+    "height": "202", 
+    "mass": "136", 
+    "hair_color": "none", 
+    "skin_color": "white", 
+    "eye_color": "yellow", 
+    "birth_year": "5025", 
+    "gender": "male", 
+    "homeworld": "https://swapi.dev/api/planets/1/", 
+    "films": [
+        "https://swapi.dev/api/films/1/", 
+
+
+"name": "Luke Skywalker", 
+    "height": "172", 
+    "mass": "77", 
+    "hair_color": "blond", 
+    "skin_color": "fair", 
+    "eye_color": "blue", 
+    "birth_year": "19BBY", 
+    "gender": "male", 
+    "homeworld": "https://swapi.dev/api/planets/1/", 
+    "films": [
+        "https://swapi.dev/api/films/1/",
+
+
+"name": "Leia Organa", 
+    "height": "150", 
+    "mass": "49", 
+    "hair_color": "brown", 
+    "skin_color": "light", 
+    "eye_color": "brown", 
+    "birth_year": "4025", 
+    "gender": "female", 
+    "homeworld": "https://swapi.dev/api/planets/2/", 
+    "films": [
+        "https://swapi.dev/api/films/1/", 
+
+
+ "name": "Owen Lars", 
+    "height": "178", 
+    "mass": "120", 
+    "hair_color": "brown, grey", 
+    "skin_color": "light", 
+    "eye_color": "blue", 
+    "birth_year": "3128", 
+    "gender": "male", 
+    "homeworld": "https://swapi.dev/api/planets/1/", 
+    "films": [
+        "https://swapi.dev/api/films/1/",
+
+        "_id": "613fdaa4c25e7d70de41dd5d",
+      "nome": "Leia Organa",
+      "nascimento": "4025",
+      "genero": "Feminino",
+      "filmes": "https://swapi.dev/api/films/1/"

@@ -1,6 +1,6 @@
 # Back-End-Api-Star-Wars
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1200px-Star_Wars_Logo.svg.png" alt="Star Wars Logo"/>
+<img src="https://i.pinimg.com/originals/bd/81/b8/bd81b84482c2c6bb2d254da173d27880.jpg" alt="Star Wars Logo"/>
 
 > API criada como `Projeto de Avaliação Final` do curso de Back End Noje.Js Módulo III https://blueedtech.com.br/, utilizando a linguagem de programação JavaScript e o banco de dados MongoDB. Nessa API eu crio um CRUD completo de personagens do filme Star Wars.
 

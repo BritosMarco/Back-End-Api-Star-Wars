@@ -1,6 +1,6 @@
 # Back-End-Api-Star-Wars
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApxB94-qOTrp3hbQGk1UlgCUHCegSh4UDeAs4IRXEzMspu2BQrtEeCdahU19SL_X8mUc&usqp=CAU"  align ="center alt="Star Wars Logo" style= "zomm:33%;"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApxB94-qOTrp3hbQGk1UlgCUHCegSh4UDeAs4IRXEzMspu2BQrtEeCdahU19SL_X8mUc&usqp=CAU"  align ="center" alt="Star Wars Logo" style= "zomm:33%;"/>
 
 > API criada como `Projeto de Avaliação Final` do curso de Back End Noje.Js Módulo III https://blueedtech.com.br/, utilizando a linguagem de programação JavaScript e o banco de dados MongoDB. Nessa API eu crio um CRUD completo de personagens do filme Star Wars.
 
